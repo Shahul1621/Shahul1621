@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shahul meeran u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahul meeran u" height="30" width="40" /></a>
-<a href="https://instagram.com/shahul__meeran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahul__meeran" height="30" width="40" /></a>
+<a href="https://instagram.com/_shahul_meeran_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shahul_meeran_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shahul_meeran_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahul_meeran_u" height="30" width="40" /></a>
 </p>
 
@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahul1621&show_icons=true&locale=en" alt="shahul1621" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahul1621&" alt="shahul1621" /></p>
+
